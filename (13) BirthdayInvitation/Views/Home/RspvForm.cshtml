@@ -1,0 +1,32 @@
+﻿@model GreetingAppMvc.Models.GuestResponse
+
+@{
+    ViewBag.Title = "RspvForm";
+}
+
+<h2>RspvForm</h2>
+@using (Html.BeginForm())
+{
+                <p>Your Name: @Html.TextBoxFor(x => x.Name)</p>
+                <p>your Email: @Html.TextBoxFor(x => x.Email)</p>
+                <p>your ContactNo: @Html.TextBoxFor(x => x.ContactNo)</p>
+                <p>will you attend ?:
+                    @Html.DropDownListFor(x => x.WillAttend, new[]
+                {
+                    new SelectListItem(){Text="yes I will be there",Value=bool.TrueString},
+                    new SelectListItem(){Text="No! Sorry",Value=bool.FalseString}
+                }, "choose an option")
+                </p>
+
+                <p>
+                    Food preferences?
+                    @Html.DropDownListFor(x => x.Veg, new[]
+               {
+                   new SelectListItem(){Text="veg",Value=bool.TrueString},
+                   new SelectListItem(){Text="Non-veg",Value=bool.FalseString}
+               }, "choose an option")
+                </p>
+                <input type="submit" value="Submit form"/>
+    }
+}
+

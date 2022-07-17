@@ -1,0 +1,10 @@
+C:\Users\mcamock\source\repos\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\FoodDeliveryApp.exe.config
+C:\Users\mcamock\source\repos\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\FoodDeliveryApp.exe
+C:\Users\mcamock\source\repos\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\FoodDeliveryApp.pdb
+C:\Users\mcamock\source\repos\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.csproj.AssemblyReference.cache
+C:\Users\mcamock\source\repos\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.Properties.Resources.resources
+C:\Users\mcamock\source\repos\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.csproj.GenerateResource.cache
+C:\Users\mcamock\source\repos\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.csproj.CoreCompileInputs.cache
+C:\Users\mcamock\source\repos\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.exe
+C:\Users\mcamock\source\repos\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.pdb
+C:\Users\mcamock\source\repos\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.frmmain.resources

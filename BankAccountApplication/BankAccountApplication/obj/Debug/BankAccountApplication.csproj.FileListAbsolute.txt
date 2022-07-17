@@ -1,0 +1,22 @@
+D:\1222_.net\BankAccountApplication\BankAccountApplication\bin\Debug\BankAccountApplication.exe.config
+D:\1222_.net\BankAccountApplication\BankAccountApplication\bin\Debug\BankAccountApplication.exe
+D:\1222_.net\BankAccountApplication\BankAccountApplication\bin\Debug\BankAccountApplication.pdb
+D:\1222_.net\BankAccountApplication\BankAccountApplication\obj\Debug\BankAccountApplication.csproj.AssemblyReference.cache
+D:\1222_.net\BankAccountApplication\BankAccountApplication\obj\Debug\BankAccountApplication.Form1.resources
+D:\1222_.net\BankAccountApplication\BankAccountApplication\obj\Debug\BankAccountApplication.Properties.Resources.resources
+D:\1222_.net\BankAccountApplication\BankAccountApplication\obj\Debug\BankAccountApplication.csproj.GenerateResource.cache
+D:\1222_.net\BankAccountApplication\BankAccountApplication\obj\Debug\BankAccountApplication.csproj.CoreCompileInputs.cache
+D:\1222_.net\BankAccountApplication\BankAccountApplication\obj\Debug\BankAccountApplication.exe
+D:\1222_.net\BankAccountApplication\BankAccountApplication\obj\Debug\BankAccountApplication.pdb
+D:\1222_.net\BankAccountApplication\BankAccountApplication\obj\Debug\BankAccountApplication.Frminput.resources
+C:\Users\sanke\Desktop\PRACS\Shubham AWT\BankAccountApplication\BankAccountApplication\bin\Debug\BankAccountApplication.exe.config
+C:\Users\sanke\Desktop\PRACS\Shubham AWT\BankAccountApplication\BankAccountApplication\bin\Debug\BankAccountApplication.exe
+C:\Users\sanke\Desktop\PRACS\Shubham AWT\BankAccountApplication\BankAccountApplication\bin\Debug\BankAccountApplication.pdb
+C:\Users\sanke\Desktop\PRACS\Shubham AWT\BankAccountApplication\BankAccountApplication\obj\Debug\BankAccountApplication.csproj.AssemblyReference.cache
+C:\Users\sanke\Desktop\PRACS\Shubham AWT\BankAccountApplication\BankAccountApplication\obj\Debug\BankAccountApplication.Form1.resources
+C:\Users\sanke\Desktop\PRACS\Shubham AWT\BankAccountApplication\BankAccountApplication\obj\Debug\BankAccountApplication.Frminput.resources
+C:\Users\sanke\Desktop\PRACS\Shubham AWT\BankAccountApplication\BankAccountApplication\obj\Debug\BankAccountApplication.Properties.Resources.resources
+C:\Users\sanke\Desktop\PRACS\Shubham AWT\BankAccountApplication\BankAccountApplication\obj\Debug\BankAccountApplication.csproj.GenerateResource.cache
+C:\Users\sanke\Desktop\PRACS\Shubham AWT\BankAccountApplication\BankAccountApplication\obj\Debug\BankAccountApplication.csproj.CoreCompileInputs.cache
+C:\Users\sanke\Desktop\PRACS\Shubham AWT\BankAccountApplication\BankAccountApplication\obj\Debug\BankAccountApplication.exe
+C:\Users\sanke\Desktop\PRACS\Shubham AWT\BankAccountApplication\BankAccountApplication\obj\Debug\BankAccountApplication.pdb

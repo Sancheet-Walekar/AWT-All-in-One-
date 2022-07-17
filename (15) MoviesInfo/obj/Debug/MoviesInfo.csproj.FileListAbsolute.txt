@@ -1,0 +1,153 @@
+C:\Users\mcamock\source\repos\MoviesInfo\bin\MoviesInfo.dll.config
+C:\Users\mcamock\source\repos\MoviesInfo\bin\MoviesInfo.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\MoviesInfo.pdb
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\csc.exe
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\csc.exe.config
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\csc.rsp
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\csi.exe
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\csi.exe.config
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\csi.rsp
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\System.AppContext.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\System.Console.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\System.IO.Compression.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\System.Net.Http.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\System.ValueTuple.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\vbc.exe
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\vbc.exe.config
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\vbc.rsp
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\VBCSCompiler.exe
+C:\Users\mcamock\source\repos\MoviesInfo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mcamock\source\repos\MoviesInfo\bin\EntityFramework.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\EntityFramework.SqlServer.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\System.Web.Helpers.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\System.Web.Mvc.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\System.Web.Razor.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\System.Web.Webpages.Deployment.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\System.Web.Webpages.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\System.Web.Webpages.Razor.dll
+C:\Users\mcamock\source\repos\MoviesInfo\bin\EntityFramework.xml
+C:\Users\mcamock\source\repos\MoviesInfo\bin\EntityFramework.SqlServer.xml
+C:\Users\mcamock\source\repos\MoviesInfo\bin\System.Web.Razor.xml
+C:\Users\mcamock\source\repos\MoviesInfo\bin\System.Web.Webpages.xml
+C:\Users\mcamock\source\repos\MoviesInfo\bin\System.Web.Webpages.Deployment.xml
+C:\Users\mcamock\source\repos\MoviesInfo\bin\System.Web.Webpages.Razor.xml
+C:\Users\mcamock\source\repos\MoviesInfo\bin\System.Web.Helpers.xml
+C:\Users\mcamock\source\repos\MoviesInfo\bin\System.Web.Mvc.xml
+C:\Users\mcamock\source\repos\MoviesInfo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mcamock\source\repos\MoviesInfo\obj\Debug\MoviesInfo.csproj.CoreCompileInputs.cache
+C:\Users\mcamock\source\repos\MoviesInfo\obj\Debug\MoviesInfo.csproj.CopyComplete
+C:\Users\mcamock\source\repos\MoviesInfo\obj\Debug\MoviesInfo.dll
+C:\Users\mcamock\source\repos\MoviesInfo\obj\Debug\MoviesInfo.pdb
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\MoviesInfo.dll.config
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\MoviesInfo.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\MoviesInfo.pdb
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\csc.exe
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\csc.exe.config
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\csc.rsp
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\csi.exe
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\csi.exe.config
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\csi.rsp
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\System.AppContext.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\System.Console.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\System.IO.Compression.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\System.Net.Http.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\System.ValueTuple.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\vbc.exe
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\vbc.exe.config
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\vbc.rsp
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\VBCSCompiler.exe
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\EntityFramework.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\EntityFramework.SqlServer.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\System.Data.SqlClient.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\System.Web.Helpers.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\System.Web.Mvc.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\System.Web.Razor.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\System.Web.Webpages.Deployment.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\System.Web.Webpages.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\System.Web.Webpages.Razor.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\EntityFramework.xml
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\EntityFramework.SqlServer.xml
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\System.Data.SqlClient.xml
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\System.Web.Razor.xml
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\System.Web.Webpages.xml
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\System.Web.Webpages.Deployment.xml
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\System.Web.Webpages.Razor.xml
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\System.Web.Helpers.xml
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\System.Web.Mvc.xml
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\obj\Debug\MoviesInfo.csproj.AssemblyReference.cache
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\obj\Debug\MoviesInfo.csproj.CoreCompileInputs.cache
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\obj\Debug\MoviesInfo.csproj.CopyComplete
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\obj\Debug\MoviesInfo.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\(15) MoviesInfo\obj\Debug\MoviesInfo.pdb

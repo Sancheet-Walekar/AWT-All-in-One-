@@ -1,0 +1,14 @@
+C:\Users\mcamock\source\repos\WcfCalculatorPro\bin\WcfCalculatorPro.dll.config
+C:\Users\mcamock\source\repos\WcfCalculatorPro\bin\WcfCalculatorPro.dll
+C:\Users\mcamock\source\repos\WcfCalculatorPro\bin\WcfCalculatorPro.pdb
+C:\Users\mcamock\source\repos\WcfCalculatorPro\obj\Debug\WcfCalculatorPro.csproj.AssemblyReference.cache
+C:\Users\mcamock\source\repos\WcfCalculatorPro\obj\Debug\WcfCalculatorPro.csproj.CoreCompileInputs.cache
+C:\Users\mcamock\source\repos\WcfCalculatorPro\obj\Debug\WcfCalculatorPro.dll
+C:\Users\mcamock\source\repos\WcfCalculatorPro\obj\Debug\WcfCalculatorPro.pdb
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\WcfCalculatorPro\bin\WcfCalculatorPro.dll.config
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\WcfCalculatorPro\bin\WcfCalculatorPro.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\WcfCalculatorPro\bin\WcfCalculatorPro.pdb
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\WcfCalculatorPro\obj\Debug\WcfCalculatorPro.csproj.AssemblyReference.cache
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\WcfCalculatorPro\obj\Debug\WcfCalculatorPro.csproj.CoreCompileInputs.cache
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\WcfCalculatorPro\obj\Debug\WcfCalculatorPro.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\WcfCalculatorPro\obj\Debug\WcfCalculatorPro.pdb
